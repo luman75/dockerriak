@@ -166,4 +166,3 @@ $ make stop-cluster
 ./bin/stop-cluster.sh
 Stopped the cluster and cleared all of the running containers.
 ```
-# dockerriak
